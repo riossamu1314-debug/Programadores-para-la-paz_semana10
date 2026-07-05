@@ -1,0 +1,15 @@
+Automatizacion - Semana 10
+
+Evento que activa el flujo: se registra un nuevo reporte de incidencia.
+
+Accion: n8n envia automaticamente un mensaje a un canal de Telegram.
+
+Mensaje que se enviaria a Telegram:
+"Nuevo reporte recibido. Revisar sistema."
+
+Informacion que no deberia enviarse por seguridad:
+- Nombres completos.
+- Numeros de documento de identidad.
+- Direcciones.
+- Numeros de telefono.
+- Claves, tokens o datos sensibles en general.

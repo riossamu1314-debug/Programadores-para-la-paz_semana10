@@ -1,0 +1,14 @@
+Iteracion - Semana 10
+
+1. Las 2 tareas del backlog que haria primero son:
+   - Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+   - Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+
+2. Son las mas importantes porque sin el registro de la incidencia no existe informacion que seguir, y sin la alerta al coordinador nadie se entera de que hay un caso nuevo para revisar.
+
+3. Para mi, que una tarea este "terminada" significa que cumple con lo minimo necesario para ser confiable y util dentro del proyecto.
+
+Definicion de terminado:
+- Funciona correctamente sin errores.
+- Fue probada al menos una vez.
+- Quedo registrada y subida en Git.
